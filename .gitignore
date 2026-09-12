@@ -39,3 +39,6 @@ build/
 # OS / temporary files
 *.tmp
 *.temp
+
+# text files
+notes.txt
