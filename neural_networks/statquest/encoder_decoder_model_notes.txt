@@ -1,0 +1,63 @@
+# Encoder-Decoder Models
+
+* A token is represented by an embedding vector, which contains one or MORE learned NUMERICAL VECTORS(DIMENSIONS).
+  - An EMBEDDING LAYER(simple neural network component) that maps tokens to these vectors.
+
+* One token --> one embedding vector --> N embedding values
+
+  - EX(N=2): Our model is currently learning a 2-dimensional embedding for each token.
+    - [cat, dog, fish, bird]
+
+    - "cat" --> embedding = [0.21, -0.43]
+
+    - "dog" --> embedding = [0.18, -0.39]
+
+    - "fish" --> embedding = [-0.72, 0.14]
+
+    - "bird" --> embedding = [-0.65, 0.22]
+
+
+* If we instead had 100 hidden nodes, each vector would get a 100-dimensional embedding.
+  - Words that appear in similar contexts tend to end up with SIMILAR EMBEDDING VECTORS.
+
+* Embedding dimension is a DESIGN CHOICE. You can have 2, 50, 100, 300, 768, etc. dimensions.
+
+
+* N = 1000+ dimensions is possible, especially with modern language models. 
+  - Representing a word like 'king' with 2 numbers --> [0.8, 0.3]... is VERY LIMITED.
+
+  - There are ONLY 2 directions in which the model can encode information.
+
+  - But with 1000 dimensions --> 'king' --> [0.12, -0.44, 0.73, ..., 0.05]
+
+  - The model has MANY MORE SLOTS TO ENCODE DIFFERENT ASPECTS OF THE WORD.
+    - dimension 1 = "animal-ness"
+
+    - dimension 2 = "human ness"
+
+    - dimension 3 = "royalty-related"
+
+    - dimension 4 = "gender-related"
+
+    - dimension 5 = "formality"
+
+    - dimension 6 = "geography"
+
+    ...
+
+    - dimension 1000 = "some subtle learned relationship."
+
+
+* The individual dimensions DON'T ALWAYS correspond to human-interpretable concepts.
+
+* With thousands of dimensions, the model has an easier time representing all the nuanced relationships between these words.
+  - Model has more room to encode relationships.
+
+  - EX: 
+    - king ↔ queen       similar context
+    - man ↔ woman        similar context
+    - apple ↔ banana     similar context
+    - king ↔ apple       very different context
+
+* TRADEOFF --> more dimensions aren't automatically better. 
+  - They require more computation and memory, and you generally want an embedding size appropriate for the model and task.
