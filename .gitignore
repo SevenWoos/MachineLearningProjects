@@ -41,4 +41,4 @@ build/
 *.temp
 
 # text files
-notes.txt
+notes.txtnlp/1_nlp_classifier/single_label_classifiers/bert_goemotions_v1/
