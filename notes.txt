@@ -1,0 +1,7 @@
+* Activate the venv-tf environment.
+  - source /Users/svenwu/Hustle/MachineLearning/venv-tf/bin/activate
+
+* Deactivate virtual environment
+  - deactivate
+
+* 

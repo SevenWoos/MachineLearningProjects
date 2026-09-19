@@ -42,3 +42,4 @@ build/
 
 # text files
 notes.txtnlp/1_nlp_classifier/single_label_classifiers/bert_goemotions_v1/
+nlp/1_nlp_classifier/single_label_classifiers/bert_goemotions_v1/
