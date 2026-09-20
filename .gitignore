@@ -43,6 +43,9 @@ build/
 
 # Notes
 notes.txt
+docker_notes.txt
+data_drift_notes.txt
+llm_notes.txt
 
 # Model artifacts
 bert_goemotions_v1/
