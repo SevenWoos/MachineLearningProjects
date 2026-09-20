@@ -1,0 +1,26 @@
+### Comparison to Paper (Harutyunyan & Kumar, 2026)
+
+Our TF-IDF + LR results closely reproduce the paper's numbers,
+which serves as agood sanity check that the pipeline is implemented
+correctly (same official train/dev/test split, same model config).
+
+| Metric           | Paper (LR) | Ours   |
+|------------------|-----------:|-------:|
+| Subset Accuracy  | ~0.24      | 0.264  |
+| Hamming Loss     | ~0.054     | 0.053  |
+| Micro F1         | ~0.51      | 0.510  |
+| Macro F1         | ~0.45      | 0.456  |
+
+* Essentially a match — small differences likely come from our
+  exact TF-IDF config (ngram_range=(1,2), min_df=2), which the
+  paper didn't fully specify.
+
+* Confirms our multi-hot matrix + Binary Relevance setup is
+  correct BEFORE moving on to more complex models (BERT), where
+  bugs would be harder to catch without this baseline to compare
+  against.
+
+* Next: paper's BERT run got Macro F1 = 0.49 (vs our 0.456 LR),
+  beating both LR and BiLSTM on Macro F1 and Subset Accuracy —
+  expect a similar jump once we fine-tune BERT with a multi-label
+  head on this task.
