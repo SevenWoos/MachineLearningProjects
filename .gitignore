@@ -49,3 +49,9 @@ llm_notes.txt
 
 # Model artifacts
 bert_goemotions_v1/
+
+# Config files
+config.py
+
+# Playwright persistent browser profile (cookies/session data)
+browser_profile/
