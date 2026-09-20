@@ -1,0 +1,25 @@
+# Result of first run:
+  - The overall sentiment is overwhelmingly negative, characterized by widespread dissatisfaction with food quality, order execution, and customer service. Recurring complaints center on incorrect or missing toppings,poorly prepared or undercooked dough, long delivery delays resulting in cold food, and mistakes with orderfulfillment. Additionally, customers frequently cited rude or unprofessional staff, hygiene concerns, and unhonored store credits or missing refunds. In contrast, rare praise highlights occasional instances of friendly staff, quick issue resolution by helpful managers, and generous toppings compared to competitors.
+
+# Second run:
+  - **Overall Sentiment:** The general sentiment is overwhelmingly negative, with most customers expressing deep dissatisfaction regarding their experiences.
+
+  **Negative Themes & Recurring Complaints:** 
+  * **Order Inaccuracies & Quality:** Frequent issues with wrong or missing toppings, thin/undercooked crusts, incorrect pizza cuts, and sparse ingredients or cold food upon delivery.
+  * **Service & Staff Behavior:** Multiple complaints about rude, unprofessional, or dismissive employees, as well as a lack of basic hygiene standards.
+  * **Customer Support & System Issues:** Difficulty resolving mistakes, including failure to honor promised credits or refunds, unhelpful managers, and website ordering glitches.
+
+  **Positive Themes & Praise:** 
+  * A small minority of reviewers praised the establishment for friendly staff, generous toppings, or quick resolution by management on rare occasions when issues occurred.
+
+
+# Third run:
+  - **Overall Sentiment:**  
+  The overall sentiment is overwhelmingly negative, with most reviewers expressing deep frustration regarding poor food quality, incorrect orders, and unreliable customer service.
+
+  **Common Themes & Recurring Complaints:**  
+  * **Food Quality & Order Accuracy:** Frequent complaints highlight missing or sparse toppings, undercooked or thin crusts, cold delivery food, and ignored special requests (such as specific crust cuts).  
+  * **Customer Service & Operations:** Many reviewers cited long delivery/wait times, rude or dismissive staff, unhygienic practices, and issues with unhonoredstore credits or delayed refunds for canceled orders.
+
+  **Recurring Praise:**  
+  * While rare, occasional praise was given to kind staff members, prompt resolution of issues by management in isolated instances, and good food quality when the order happened to be prepared correctly.
