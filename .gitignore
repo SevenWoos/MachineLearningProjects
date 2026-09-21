@@ -55,3 +55,8 @@ config.py
 
 # Playwright persistent browser profile (cookies/session data)
 browser_profile/
+
+# Model checkpoints — too large for git, regenerate via training instead
+bert_multilabel_epoch*/
+bert_multilabel_full_epoch*/
+bert_goemotions_v1/
