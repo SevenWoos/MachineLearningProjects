@@ -49,6 +49,7 @@ llm_notes.txt
 transformers_notes.txt
 rag_notes.txt
 project_setup.txt
+model_selection.txt
 
 # Model artifacts
 bert_goemotions_v1/
