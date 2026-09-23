@@ -1,0 +1,204 @@
+[
+  {
+    "id": 1,
+    "student_text": "I watched how my lab partner explained the experiment to everyone when we were confused. She made something complicated seem really simple, and I wish I could explain things like that.",
+    "emotions": [
+      "admiration"
+    ],
+    "teacher_response": "It sounds like you really appreciated the way your partner approached the problem. Noticing effective communication in others can also help you identify skills you'd like to develop yourself."
+  },
+  {
+    "id": 2,
+    "student_text": "My group accidentally submitted the draft with all of our comments still visible. We were embarrassed at first, but looking back at some of the comments is actually pretty funny.",
+    "emotions": [
+      "amusement"
+    ],
+    "teacher_response": "It sounds like an awkward moment turned into something you can laugh about. It's nice that you were able to find some humor in the situation after the initial embarrassment."
+  },
+  {
+    "id": 3,
+    "student_text": "I spent three hours working on the assignment and then found out the instructions had changed after I started. I wish someone had told us earlier because now I have to redo most of my work.",
+    "emotions": [
+      "anger"
+    ],
+    "teacher_response": "It makes sense that you'd feel frustrated after putting so much effort into the assignment and then learning that the expectations had changed. It may be worth talking with your teacher about what happened and what support you need to move forward."
+  },
+  {
+    "id": 4,
+    "student_text": "I couldn't concentrate today because people kept talking while I was trying to work. I kept having to reread the same paragraph over and over.",
+    "emotions": [
+      "annoyance"
+    ],
+    "teacher_response": "It sounds like the interruptions made it difficult to stay focused. Finding a quieter place to work, when possible, might help you get back into a productive rhythm."
+  },
+  {
+    "id": 5,
+    "student_text": "I think the new group project rules are actually better than the old ones. Everyone has a clearer job now, so it doesn't feel like one person is doing all the work.",
+    "emotions": [
+      "approval"
+    ],
+    "teacher_response": "It sounds like the clearer responsibilities have made the group experience feel more balanced. It's useful to notice which structures help your team work effectively."
+  },
+  {
+    "id": 6,
+    "student_text": "My friend seemed really stressed before the presentation, so I stayed with her and helped her practice. I didn't want her to feel like she had to deal with it alone.",
+    "emotions": [
+      "caring"
+    ],
+    "teacher_response": "It sounds like you were thoughtful about what your friend needed and made an effort to support her. Small acts of support can make a meaningful difference when someone is feeling overwhelmed."
+  },
+  {
+    "id": 7,
+    "student_text": "I read the directions three times and still don't understand what we're supposed to include in the final section. I know I'm missing something, but I can't figure out what it is.",
+    "emotions": [
+      "confusion"
+    ],
+    "teacher_response": "It sounds like the expectations for the final section aren't clear yet. Try identifying the specific part of the instructions that is confusing, and we can work through it together."
+  },
+  {
+    "id": 8,
+    "student_text": "I understand how we got the answer, but I'm wondering what would happen if we changed the starting conditions. Would the result still work the same way?",
+    "emotions": [
+      "curiosity"
+    ],
+    "teacher_response": "That's a great question to explore because changing the starting conditions could reveal how sensitive the result is. You could test one variable at a time and compare what happens."
+  },
+  {
+    "id": 9,
+    "student_text": "I really want to get better at presenting in front of people. I always know what I want to say when I'm practicing alone, but I want to feel just as confident when everyone is watching.",
+    "emotions": [
+      "desire"
+    ],
+    "teacher_response": "It sounds like becoming a more confident presenter is an important goal for you. Practicing in smaller settings and gradually increasing the audience could help you build that confidence."
+  },
+  {
+    "id": 10,
+    "student_text": "I studied almost every night this week because I wanted to improve my grade, but I got my test back today and it was barely higher than my last one. I thought all that work would make a bigger difference.",
+    "emotions": [
+      "disappointment"
+    ],
+    "teacher_response": "It sounds like you're disappointed because your effort didn't lead to the improvement you were hoping for. That effort still gives us useful information, and we can look at which study strategies might work better for the next assessment."
+  },
+  {
+    "id": 11,
+    "student_text": "I don't think it was fair that our group lost points because one person didn't do their part. The rest of us finished everything we were responsible for.",
+    "emotions": [
+      "disapproval"
+    ],
+    "teacher_response": "It sounds like you felt the outcome didn't fairly reflect the work you contributed. It may help to discuss how responsibilities were divided and how the group handled the missed work."
+  },
+  {
+    "id": 12,
+    "student_text": "I answered the question confidently and then realized I had completely misunderstood what the teacher was asking. Everyone got quiet for a second and I wished I could disappear.",
+    "emotions": [
+      "embarrassment"
+    ],
+    "teacher_response": "That sounds like a really uncomfortable moment. Getting an answer wrong in front of others can feel embarrassing, but it doesn't mean you aren't capable of learning the material."
+  },
+  {
+    "id": 13,
+    "student_text": "Our team finally got the robot to complete the entire course without stopping. We've been working on that problem for weeks, so seeing it actually work was amazing.",
+    "emotions": [
+      "excitement"
+    ],
+    "teacher_response": "It sounds like seeing your work finally come together was really exciting. You've also gained experience working through a problem that took multiple attempts to solve."
+  },
+  {
+    "id": 14,
+    "student_text": "I keep thinking about the presentation tomorrow and I'm worried that I'll forget everything once I stand in front of the class. I've practiced, but I'm still nervous about messing up.",
+    "emotions": [
+      "fear"
+    ],
+    "teacher_response": "It sounds like you're worried about losing your preparation once the presentation begins. You've already practiced, so focusing on one part of the presentation at a time may help you feel more in control."
+  },
+  {
+    "id": 15,
+    "student_text": "My teacher stayed after class to help me understand the assignment even though she had other things to do. I really appreciate that she took the time to help me.",
+    "emotions": [
+      "gratitude"
+    ],
+    "teacher_response": "It sounds like that extra time meant a lot to you. Recognizing the people who support your learning can be a meaningful part of your reflection."
+  },
+  {
+    "id": 16,
+    "student_text": "My dog died this weekend and it's been hard to concentrate on school since then. I keep expecting him to be waiting for me when I get home.",
+    "emotions": [
+      "grief"
+    ],
+    "teacher_response": "I'm sorry you're going through this loss. It makes sense that concentrating on school may be difficult right now, so please give yourself some time and reach out for support if you need it."
+  },
+  {
+    "id": 17,
+    "student_text": "I finally understood the math problem that had been confusing me all week. When I solved it on my own, I felt really happy because I knew I had actually learned it.",
+    "emotions": [
+      "joy"
+    ],
+    "teacher_response": "It sounds like solving that problem on your own gave you a real sense of accomplishment. Moments like that can be a good reminder of how much progress you're capable of making."
+  },
+  {
+    "id": 18,
+    "student_text": "My family came to my science fair presentation even though they had to rearrange their schedules. It made me feel really loved knowing they wanted to be there.",
+    "emotions": [
+      "love"
+    ],
+    "teacher_response": "It sounds like having your family there made the experience especially meaningful. Their support seems to have helped you feel valued and encouraged."
+  },
+  {
+    "id": 19,
+    "student_text": "I have my first college interview tomorrow and I've been practicing my answers all day. I know I'm prepared, but I still feel nervous every time I think about it.",
+    "emotions": [
+      "nervousness"
+    ],
+    "teacher_response": "It sounds like you're nervous because the interview is important to you, even though you've prepared carefully. Taking a few slow breaths and focusing on having a conversation rather than giving perfect answers may help."
+  },
+  {
+    "id": 20,
+    "student_text": "My first attempt at the project didn't work, but I figured out what went wrong. I think if I change the approach and try again, I can get it working.",
+    "emotions": [
+      "optimism"
+    ],
+    "teacher_response": "It sounds like you're using the first attempt as information rather than letting the setback stop you. Identifying what went wrong gives you a strong starting point for your next attempt."
+  },
+  {
+    "id": 21,
+    "student_text": "I used to avoid speaking during group discussions because I was afraid of saying something wrong. Today I shared my idea and the group actually used it in our project. I'm proud that I finally spoke up.",
+    "emotions": [
+      "pride"
+    ],
+    "teacher_response": "It sounds like you're proud not only of the idea you contributed, but also of pushing yourself to participate despite your hesitation. That's meaningful progress."
+  },
+  {
+    "id": 22,
+    "student_text": "I got the email saying I wasn't selected for the program I applied to. I was really hoping it would work out, and now I just feel down about it.",
+    "emotions": [
+      "sadness"
+    ],
+    "teacher_response": "It sounds like the decision was difficult because you had been hoping for the opportunity. It's okay to take some time to process the disappointment before deciding what you'd like to pursue next."
+  },
+  {
+    "id": 23,
+    "student_text": "I thought my presentation had gone pretty badly because I forgot one of my main points. Then my teacher told me it was one of the strongest presentations in the class. I honestly didn't expect that.",
+    "emotions": [
+      "surprise"
+    ],
+    "teacher_response": "It sounds like the feedback was very different from what you expected. Sometimes our own perception of how we performed can be much harsher than how others experienced it."
+  },
+  {
+    "id": 24,
+    "student_text": "I've been working on this project for weeks and I finally submitted it, but then I noticed a mistake in the final version. I know it's too late to change it, and I'm frustrated because I spent so much time trying to get everything right.",
+    "emotions": [
+      "disappointment",
+      "annoyance"
+    ],
+    "teacher_response": "It sounds like you're frustrated because the mistake happened despite the effort you put into the project. It's understandable to feel disappointed, but the work you did still gave you experience that you can use on the next project."
+  },
+  {
+    "id": 25,
+    "student_text": "I don't understand why the experiment produced such a different result from what we expected. At first I thought we made a mistake, but now I'm wondering if there's something interesting happening that we haven't considered.",
+    "emotions": [
+      "confusion",
+      "curiosity"
+    ],
+    "teacher_response": "It sounds like the unexpected result is confusing, but also giving you a reason to investigate further. Checking your procedure first and then exploring possible explanations could turn the unexpected result into a useful discovery."
+  }
+]

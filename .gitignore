@@ -48,6 +48,7 @@ data_drift_notes.txt
 llm_notes.txt
 transformers_notes.txt
 rag_notes.txt
+project_setup.txt
 
 # Model artifacts
 bert_goemotions_v1/
