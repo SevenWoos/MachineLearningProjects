@@ -49,6 +49,7 @@ llm_notes.txt
 transformers_notes.txt
 rag_notes.txt
 project_setup.txt
+encoder_decoder_model_notes.txt
 model_selection.txt
 
 # Model artifacts
