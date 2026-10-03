@@ -51,6 +51,7 @@ rag_notes.txt
 project_setup.txt
 encoder_decoder_model_notes.txt
 model_selection.txt
+/stg
 
 # Model artifacts
 bert_goemotions_v1/
